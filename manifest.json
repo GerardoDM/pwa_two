@@ -1,0 +1,16 @@
+{
+    "short_name": "pwa",
+    "name": "universidad tecnologica de torreon developers",
+    "start_url": "index.html",
+    "background_color": "#ededed",
+    "theme_color": "#ededed",
+    "display": "standalone",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src" : "/img/icons/iconocarro.png",
+            "type": "image/png",
+            "sizes": "any"
+        }
+    ]   
+}
